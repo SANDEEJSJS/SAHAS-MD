@@ -55,7 +55,7 @@ module.exports = {
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94741895740
+*🔹 OWNER:* 94718913389
 
 
 _Thank you for using_ *👨‍💻ALPHA-ND💗.*
