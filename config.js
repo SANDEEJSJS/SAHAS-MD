@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "Put Session Id",
+  SESSION_ID: process.env.SESSION_ID || "kKVnkYoR#YsrGWB5ia9V7CsBYJ4BdAkqxenNmap02MsWZ-3a1qXI",
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
@@ -23,7 +23,7 @@ module.exports = {
   AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ANTI_BAD_WORDS: (process.env.ANTI_BAD_WORDS || "pakayo,huththo").split(','),
   ANTI_LINK: process.env.ANTILINK || "true",
-  ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
+  ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
   AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "true",
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
@@ -51,14 +51,14 @@ module.exports = {
   
   START_MSG: process.env.START_MSG || `🚀 *_SAHAS-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to ALPHA-ND!_* 🎉💗 
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94718913389
+*🔹 OWNER:* 94741895740
 
 
-_Thank you for using_ *👨‍💻SAHAS-MD💗.*
+_Thank you for using_ *👨‍💻ALPHA-ND💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
